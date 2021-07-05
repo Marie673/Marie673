@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @Marie673
 - 👀 I’m interested in Network protocol
 - 🌱 I’m currently learning ICN/CCN/NDN and QUIC
-- 💞️ I’m looking to collaborate on quicly 
 - 📫 How to reach me twitter or email: okazaki@net.info.hiroshima-cu.ac.jp
 
 <!---
