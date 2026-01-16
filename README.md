@@ -1,8 +1,6 @@
 
 - 👋 Hi, I’m @Marie673
-- 👀 I’m interested in Network protocol
-- 🌱 I’m currently learning ICN/CCN/NDN and QUIC
-- 📫 How to reach me twitter or email: okazaki@net.info.hiroshima-cu.ac.jp
+- 📫 How to reach me twitter or email: net.kohei.okazaki@gmail.com
 - This account is for hobby use only; Research and Development use exists separately.
 
 <!---
